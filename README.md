@@ -7,6 +7,4 @@ API內容：
 3. 透過解析token的方式來辨別改次登入的使用者權限為何，AM可以執行所有API ; SUBAM只能GET, CREATE, PATCH ; 一般使用者只能GET 以及PATCH自己
 
 使用模組：
-flask
-flask_restful
-marshmallow
+flask, flask_restful, marshmallow...
